@@ -17,7 +17,13 @@ SKK 用の丸数字辞書です。`まる1` のように読みを入力して丸
 ## 導入方法
  
 `SKK-JISYO.maru-num` を SKK 実装の辞書設定に追加してください。
- 
+
+URL から登録できる場合は、以下の URL を指定してください。
+
+```
+https://raw.githubusercontent.com/Lttce/skk-maru-num/refs/heads/main/SKK-JISYO.maru-num
+```
+
 ## 動作確認
  
 - CorvusSKK
